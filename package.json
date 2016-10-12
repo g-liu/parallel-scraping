@@ -1,0 +1,23 @@
+{
+  "name": "parallel-scraping",
+  "version": "1.0.0",
+  "description": "Demonstration of using GNU parallel and Casper JS to paralellize web scraping",
+  "main": "scraper.js",
+  "dependencies": {
+    "phantomjs": "~2.1.7",
+    "casperjs": "~1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/g-liu/parallel-scraping.git"
+  },
+  "author": "Geoffrey Liu",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/g-liu/parallel-scraping/issues"
+  }
+}
