@@ -1,7 +1,7 @@
 Parallel scraping
 =================
 
-See my blog post for a tutorial!
+See [my blog post](http://g-liu.com/blog/2016/10/tutorial-parallel-web-scraping-with-casperjs-and-gnu-parallel/) for a tutorial!
 
 ## Setup
 
